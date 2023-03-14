@@ -1,4 +1,5 @@
 # Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos
+AWS Skills
 [![Image](https://stacksimplify.com/course-images/terraform-on-aws-best-seller.png "Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos")](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
 
 ## Course Modules
